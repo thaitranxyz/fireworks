@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fireworks-js": "^2.10.0"
+    "fireworks-js": "^2.10.0",
+    "three": "^0.147.0"
   }
 }
